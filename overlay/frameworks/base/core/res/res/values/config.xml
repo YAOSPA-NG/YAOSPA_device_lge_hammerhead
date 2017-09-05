@@ -339,4 +339,8 @@
     <bool name="config_dozePulsePickup">true</bool>
     <!-- Doze: should the proximity sensor (handwave / pocket mode) be used as a pulse signal. -->
     <bool name="config_dozePulseProximity">true</bool>
+
+    <!-- BatteryLED fast charge -->
+    <integer name="config_chargingFastThreshold">1100000</integer>
+
 </resources>
